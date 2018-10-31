@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="280352da-b2ca-4a3b-b22f-d5a567a586d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Tarea2_Functional_Programming/Test.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea1_Control_Flow/Factorial_Numero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea1_Control_Flow/Suma_Multiplos_3_y_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea1_Control_Flow/Tabla_Multiplicar_0_a_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,38 +25,54 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="py" value="11" />
+          <entry key="py" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="11" />
+          <entry key="Python" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2291" />
+          <entry key="py" value="2292" />
+          <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2291" />
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Python" value="2292" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tarea2_Functional_Programming/Round_Sum.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tarea1_Control_Flow/Suma_Multiplos_3_y_5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="101" selection-start-line="11" selection-start-column="101" selection-end-line="11" selection-end-column="101" />
-              <folding>
-                <marker date="1540964608749" expanded="true" signature="32:37" ph="..." />
-                <marker date="1540964608749" expanded="true" signature="112:117" ph="..." />
-              </folding>
+              <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tarea1_Control_Flow/Tabla_Multiplicar_0_a_20.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="59" lean-forward="true" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tarea1_Control_Flow/Factorial_Numero.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -82,6 +101,9 @@
         <option value="$PROJECT_DIR$/Tarea2_Functional_Programming/venv/Numero_Perfecto.py" />
         <option value="$PROJECT_DIR$/Tarea2_Functional_Programming/venv/Round_Sum.py" />
         <option value="$PROJECT_DIR$/Tarea2_Functional_Programming/Test.py" />
+        <option value="$PROJECT_DIR$/Tarea1_Control_Flow/Suma_Multiplos_3_y_5.py" />
+        <option value="$PROJECT_DIR$/Tarea1_Control_Flow/Tabla_Multiplicar_0_a_20.py" />
+        <option value="$PROJECT_DIR$/Tarea1_Control_Flow/Factorial_Numero.py" />
       </list>
     </option>
   </component>
@@ -108,7 +130,7 @@
             <path>
               <item name="Python_Intro_Tareas" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Intro_Tareas" type="462c0819:PsiDirectoryNode" />
-              <item name="Tarea2_Functional_Programming" type="462c0819:PsiDirectoryNode" />
+              <item name="Tarea1_Control_Flow" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -137,8 +159,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Test">
-    <configuration name="Numero_Mayor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Vocales_Nombre">
+    <configuration name="Factorial_Numero" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Intro_Tareas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tarea2-Functional_Programming/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tarea1_Control_Flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tarea2-Functional_Programming/venv/Numero_Mayor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tarea1_Control_Flow/Factorial_Numero.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Numero_Perfecto (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Suma_Multiplos_3_y_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Intro_Tareas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,11 +189,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tarea2_Functional_Programming/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tarea1_Control_Flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tarea2_Functional_Programming/Numero_Perfecto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tarea1_Control_Flow/Suma_Multiplos_3_y_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +202,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Numero_en_Rango (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Tabla_Multiplicar_0_a_20" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Intro_Tareas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,32 +210,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tarea2_Functional_Programming/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tarea1_Control_Flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tarea2_Functional_Programming/Numero_en_Rango.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Round_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Intro_Tareas" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tarea2_Functional_Programming/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tarea2_Functional_Programming/Round_Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tarea1_Control_Flow/Tabla_Multiplicar_0_a_20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,20 +244,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Vocales_Nombre" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Intro_Tareas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tarea1_Control_Flow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tarea1_Control_Flow/Vocales_Nombre.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Numero_Mayor" />
-      <item itemvalue="Python.Numero_en_Rango (1)" />
-      <item itemvalue="Python.Numero_Perfecto (1)" />
-      <item itemvalue="Python.Round_Sum" />
       <item itemvalue="Python.Test" />
+      <item itemvalue="Python.Suma_Multiplos_3_y_5" />
+      <item itemvalue="Python.Tabla_Multiplicar_0_a_20" />
+      <item itemvalue="Python.Factorial_Numero" />
+      <item itemvalue="Python.Vocales_Nombre" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Vocales_Nombre" />
+        <item itemvalue="Python.Factorial_Numero" />
+        <item itemvalue="Python.Tabla_Multiplicar_0_a_20" />
+        <item itemvalue="Python.Suma_Multiplos_3_y_5" />
         <item itemvalue="Python.Test" />
-        <item itemvalue="Python.Round_Sum" />
-        <item itemvalue="Python.Numero_Perfecto (1)" />
-        <item itemvalue="Python.Numero_en_Rango (1)" />
-        <item itemvalue="Python.Numero_Mayor" />
       </list>
     </recent_temporary>
   </component>
@@ -271,24 +293,32 @@
       <option name="presentableId" value="Default" />
       <updated>1540954233668</updated>
     </task>
+    <task id="LOCAL-00001" summary="Deleted Test file">
+      <created>1540966263063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540966263063</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="34" width="1317" height="734" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496136" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3305648" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3305648" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4992272" weight="0.32890365" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32890365" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007728" side_tool="true" weight="0.32890365" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -297,6 +327,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Deleted Test file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted Test file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tarea2-Functional_Programming/venv/Numero_en_rango.py" />
@@ -347,6 +381,27 @@
             <marker date="1540964608749" expanded="true" signature="32:37" ph="..." />
             <marker date="1540964608749" expanded="true" signature="112:117" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tarea1_Control_Flow/Suma_Multiplos_3_y_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tarea1_Control_Flow/Tabla_Multiplicar_0_a_20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="59" lean-forward="true" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tarea1_Control_Flow/Factorial_Numero.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
         </state>
       </provider>
     </entry>

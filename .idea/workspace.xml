@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="280352da-b2ca-4a3b-b22f-d5a567a586d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="280352da-b2ca-4a3b-b22f-d5a567a586d7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,15 +47,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file leaf-file-name="Round_Sum.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tarea2_Functional_Programming/Round_Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="101" lean-forward="true" selection-start-line="11" selection-start-column="101" selection-end-line="11" selection-end-column="101" />
-              <folding>
-                <marker date="1540964608749" expanded="true" signature="32:37" ph="..." />
-                <marker date="1540964608749" expanded="true" signature="112:117" ph="..." />
-              </folding>
+            <state relative-caret-position="264">
+              <caret line="11" column="101" selection-start-line="11" selection-start-column="101" selection-end-line="11" selection-end-column="101" />
             </state>
           </provider>
         </entry>
@@ -130,7 +125,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -149,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Helloworld">
+  <component name="RunManager" selected="Python.Round_Sum">
     <configuration name="Factorial_Numero" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Intro_Tareas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,9 +162,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="Helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Intro_Tareas" />
@@ -188,11 +180,8 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <configuration name="Suma_Multiplos_3_y_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Round_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Intro_Tareas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,18 +189,15 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tarea1_Control_Flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tarea2_Functional_Programming" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tarea1_Control_Flow/Suma_Multiplos_3_y_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tarea2_Functional_Programming/Round_Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="Tabla_Multiplicar_0_a_20" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Intro_Tareas" />
@@ -230,9 +216,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="Vocales_Nombre" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Intro_Tareas" />
@@ -251,24 +234,21 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Suma_Multiplos_3_y_5" />
       <item itemvalue="Python.Tabla_Multiplicar_0_a_20" />
       <item itemvalue="Python.Factorial_Numero" />
       <item itemvalue="Python.Vocales_Nombre" />
       <item itemvalue="Python.Helloworld" />
+      <item itemvalue="Python.Round_Sum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Round_Sum" />
         <item itemvalue="Python.Helloworld" />
         <item itemvalue="Python.Vocales_Nombre" />
         <item itemvalue="Python.Factorial_Numero" />
         <item itemvalue="Python.Tabla_Multiplicar_0_a_20" />
-        <item itemvalue="Python.Suma_Multiplos_3_y_5" />
       </list>
     </recent_temporary>
   </component>
@@ -301,26 +281,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="34" width="1317" height="734" extended-state="7" />
-    <editor active="true" />
+    <frame x="63" y="28" width="1857" height="1018" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496136" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3305648" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24932687" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" sideWeight="0.4992272" weight="0.32890365" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32890365" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007728" side_tool="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3305648" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4992272" weight="0.32890365" />
       <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32890365" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -332,6 +311,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="Tarea Upload" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Tarea2_Functional_Programming/Round_Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="101" lean-forward="true" selection-start-line="11" selection-start-column="101" selection-end-line="11" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tarea2-Functional_Programming/venv/Numero_en_rango.py" />
     <entry file="file://$PROJECT_DIR$/Tarea2-Functional_Programming/venv/Numero_Perfecto.py" />
     <entry file="file://$PROJECT_DIR$/Tarea2-Functional_Programming/venv/Numero_Mayor.py" />
@@ -382,12 +368,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tarea2_Functional_Programming/Round_Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="101" lean-forward="true" selection-start-line="11" selection-start-column="101" selection-end-line="11" selection-end-column="101" />
-          <folding>
-            <marker date="1540964608749" expanded="true" signature="32:37" ph="..." />
-            <marker date="1540964608749" expanded="true" signature="112:117" ph="..." />
-          </folding>
+        <state relative-caret-position="264">
+          <caret line="11" column="101" selection-start-line="11" selection-start-column="101" selection-end-line="11" selection-end-column="101" />
         </state>
       </provider>
     </entry>

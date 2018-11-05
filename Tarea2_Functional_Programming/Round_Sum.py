@@ -1,4 +1,3 @@
-
 def round_num(int1, base = 10):
     return base * (round(float(int1) / base))
 
